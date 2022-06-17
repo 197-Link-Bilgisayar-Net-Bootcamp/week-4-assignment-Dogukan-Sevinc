@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace UdemyAuthServer.Core.Models
+namespace System.Core.Models
 {
     public class Product
     {
